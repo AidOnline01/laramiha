@@ -1,0 +1,20 @@
+.counter {
+  border: 1px solid #e0e0e0;
+  padding: 10px;
+}
+
+.counter__title {
+  font-size: 16px;
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
+.counter__content {
+  display: flex;
+  align-items: center;
+}
+
+.counter__number {
+  margin: 0 10px;
+}
+

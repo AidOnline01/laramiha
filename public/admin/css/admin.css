@@ -1,0 +1,19 @@
+body,
+html {
+  margin: 0;
+}
+
+*:before,
+*:after,
+* {
+  box-sizing: border-box;
+}
+
+.layout {
+  padding: 10px;
+}
+
+.layout > .counter {
+  margin-bottom: 10px;
+}
+
